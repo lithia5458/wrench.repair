@@ -1,2 +1,2 @@
 # wrench.repair
-SDD 
+An upcoming AI built to assist with vehicle repairs
